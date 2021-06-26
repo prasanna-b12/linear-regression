@@ -1,7 +1,7 @@
 - Hi, I’m @prasanna-b12
 - I’m focused on Data Science field
 
-Linear Regression Model
+Linear Regression Model Complete Guide
 ---------
 This code will help you to implement the Linear Regression Model.
 
