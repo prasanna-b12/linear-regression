@@ -1,5 +1,5 @@
 - Hi, I’m prasanna
-- I’m focused on Data Science field
+- This Blog will helps you to develop the Simple Linear Regression model
 
 Linear Regression Model Complete Guide
 ---------
